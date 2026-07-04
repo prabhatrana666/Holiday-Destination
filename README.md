@@ -1,7 +1,7 @@
-# Hotel-Management-System
+# Holiday-Destination
 In this project we used HTML, CSS, Bootstrap, JavaScript and little bit jQuey also.
 
-# ✨ Hotel Management System ✨
+# ✨ Holiday Destination Management ✨
 
 ## 🌍 Overview
 The **Hotel Management System** is a sleek and intuitive web-based platform designed to simplify hotel operations. From booking rooms to managing customers and generating invoices, this system ensures seamless hotel administration with a visually appealing and responsive interface.
@@ -13,7 +13,6 @@ The **Hotel Management System** is a sleek and intuitive web-based platform desi
 ✅ **Room Booking System** – Customers can check availability and reserve rooms effortlessly.  
 ✅ **Customer Management** – Maintain a record of customer details and booking history.  
 ✅ **Automated Billing & Invoicing** – Generate invoices with a click.  
-✅ **Admin Dashboard** – Manage rooms, bookings, and customer records efficiently.  
 ✅ **Smooth UI Interactions** – Enhanced with jQuery for better user experience.  
 ✅ **Alerts & Notifications** – Instant confirmations for bookings and cancellations.  
 
