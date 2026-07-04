@@ -8,6 +8,12 @@ The **Hotel Management System** is a sleek and intuitive web-based platform desi
 
 ---
 
+## 🚀 Live Demo
+
+🔗 **Live Website:** [https://holiday152.netlify.app/](https://holiday152.netlify.app/)
+
+---
+
 ## 🚀 Features
 ✅ **Modern & Responsive UI** – Built with Bootstrap for a seamless experience across devices.  
 ✅ **Room Booking System** – Customers can check availability and reserve rooms effortlessly.  
